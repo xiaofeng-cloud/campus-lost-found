@@ -9,6 +9,8 @@ frontend/dist/
 frontend/.vite/
 frontend/.playwright-cli/
 frontend/output/
+.playwright-cli/
+output/
 *.tsbuildinfo
 
 # 开发工具
